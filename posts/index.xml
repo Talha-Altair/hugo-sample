@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on hugo sample tact</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in Posts on hugo sample tact</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Jun 2021 11:56:06 +0530</lastBuildDate>
+    
+	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>sample-note</title>
+      <link>https://example.com/posts/sample-note/</link>
+      <pubDate>Sat, 12 Jun 2021 11:56:06 +0530</pubDate>
+      
+      <guid>https://example.com/posts/sample-note/</guid>
+      <description>Project Title A brief description of what this project does and who it&amp;rsquo;s for Screenshots asdawd
+Used By This project is used by the following companies:
+ Company 1 Company 2  Running Tests To run tests, run the following command
+npm run test Support For support, email fake@fake.com or join our Slack channel.
+Roadmap   Additional browser support
+  Add more integrations
+  Usage/Examples import Tech Stack Client: React, Redux, TailwindCSS</description>
+    </item>
+    
+    <item>
+      <title>sample-note-2</title>
+      <link>https://example.com/posts/sample-note2/</link>
+      <pubDate>Sat, 12 Jun 2021 11:56:06 +0530</pubDate>
+      
+      <guid>https://example.com/posts/sample-note2/</guid>
+      <description>Project Title A brief description of what this project does and who it&amp;rsquo;s for Screenshots asdawd
+Used By This project is used by the following companies:
+ Company 1 Company 2  Running Tests To run tests, run the following command
+npm run test Support For support, email fake@fake.com or join our Slack channel.
+Roadmap   Additional browser support
+  Add more integrations
+  Usage/Examples import Tech Stack Client: React, Redux, TailwindCSS</description>
+    </item>
+    
+  </channel>
+</rss>
